@@ -1,0 +1,13 @@
+logging:
+  include_full_prompt: true
+  include_patient_context: true
+retention_days: 3650
+consent_check: false
+purpose_limitation: false
+data_minimization: false
+human_review_required: false
+cross_border_transfer: true
+data_residency_assessment: false
+encryption_at_rest: false
+deletion_workflow: false
+access_review: false
